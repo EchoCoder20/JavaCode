@@ -30,4 +30,8 @@ public class Ball {
             System.out.println("The ball is in inflate");
         }
     }
+    public void name()
+    {
+        System.out.println(color);
+    }
 }
